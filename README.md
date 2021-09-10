@@ -2,7 +2,15 @@
 
 Homework assignment #1 - Semantic Tagging
 
-# github-pages-link
+# what did i do?
+
+The HTML page was modified to include semantic tagging instead of the provided DIV structure.
+The CSS file was consolidated where there were repeated elements.
+A ReadMe.md file was created (this) with an image and a link to the live work.
+
+# github pages link
+
+https://bretpeters3n.github.io/semantic-tagging/
 
 # screenshot of final product
 
