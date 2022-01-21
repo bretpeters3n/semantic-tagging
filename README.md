@@ -25,12 +25,12 @@
   </a>
   -->
 
-<h2 align="center">Landing Page Mini Project</h2>
+<h2 align="center">Semantic Tagging</h2>
   <p align="center">
-    This website is a static HTML website using CSS.
+    This website is a static HTML website using semantic tagging an CSS.
     <br />
     <br />
-    <a href="https://bretpeters3n.github.io/landing-page-mini-project/">View Demo</a>
+    <a href="https://bretpeters3n.github.io/semantic-tagging/">View Demo</a>
   </p>
 </div>
 
@@ -73,6 +73,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ## Overview
 This website is a static HTML website using CSS. This project is part of the learning experience on my journey to become a Full Stack Web Developer. 
 
+The HTML page was modified to include semantic tagging instead of the provided DIV structure. The CSS file was consolidated where there were repeated elements. A ReadMe.md file was created (this) with an image and a link to the live work.
+
 
 <!-- BUILT WITH -->
 ### Built With
@@ -92,14 +94,14 @@ This website is a static HTML website using CSS. This project is part of the lea
 
 <!-- PREVIEW -->
 ## Preview
-![image](./assets/screenshot.jpg)
+![image](./assets/images/screenshot.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- DEMO -->
 ## Demo
-[View Demo](https://bretpeters3n.github.io/landing-page-mini-project/)
+[View Demo](https://bretpeters3n.github.io/semantic-tagging/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,7 +118,7 @@ N/A
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/bretpeters3n/landing-page-mini-project.git
+   git clone https://github.com/bretpeters3n/semantic-tagging.git
    ```
 2. Open the `index.html` file in your favorite web browser.
 
@@ -155,7 +157,7 @@ N/A
 
 <!-- QUESTIONS -->
 ## Contact
-Need a contact or have questions about this project? Please review the GitHub repo at [Landing Page Mini Project](https://github.com/bretpeters3n/landing-page-mini-project) or contact one of the authors on Github.
+Need a contact or have questions about this project? Please review the GitHub repo at [Semantic Tagging](https://github.com/bretpeters3n/semantic-tagging) or contact one of the authors on Github.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
