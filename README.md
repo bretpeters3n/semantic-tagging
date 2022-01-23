@@ -12,9 +12,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-<img src="https://img.shields.io/badge/HTML-orange"/>
-<img src="https://img.shields.io/badge/CSS-yellow"/>
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -26,6 +23,9 @@
   -->
 
 <h2 align="center">Semantic Tagging</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML-orange"/>
+    <img src="https://img.shields.io/badge/CSS-yellow"/>
   <p align="center">
     This website is a static HTML website using semantic tagging an CSS.
     <br />
